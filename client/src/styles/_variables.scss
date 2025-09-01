@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'montserrat-regular';
+    src: url('./fonts/Montserrat/static/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'priestacy';
+    src: url('./fonts/priestacy/Priestacy.otf') format('opentype');
+}
+
+$montserrat-regular: 'montserrat-regular';
+$signature-font: 'priestacy';
+
+$main-color: #000;
+$secondary-color: #fff;
